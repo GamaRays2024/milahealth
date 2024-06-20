@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/anilworkshop/static/css/main.cfa75090.css",
-    "main.js": "/anilworkshop/static/js/main.84a0d336.js",
-    "static/js/453.00bbaf25.chunk.js": "/anilworkshop/static/js/453.00bbaf25.chunk.js",
-    "static/media/ProfileIcon.png": "/anilworkshop/static/media/ProfileIcon.a72bc574243baeae67e3.png",
-    "static/media/edit.png": "/anilworkshop/static/media/edit.546bc9e6315cc3edbb8a.png",
-    "index.html": "/anilworkshop/index.html",
-    "main.cfa75090.css.map": "/anilworkshop/static/css/main.cfa75090.css.map",
-    "main.84a0d336.js.map": "/anilworkshop/static/js/main.84a0d336.js.map",
-    "453.00bbaf25.chunk.js.map": "/anilworkshop/static/js/453.00bbaf25.chunk.js.map"
+    "main.css": "/milahealth/static/css/main.cfa75090.css",
+    "main.js": "/milahealth/static/js/main.23da8317.js",
+    "static/js/453.00bbaf25.chunk.js": "/milahealth/static/js/453.00bbaf25.chunk.js",
+    "static/media/ProfileIcon.png": "/milahealth/static/media/ProfileIcon.a72bc574243baeae67e3.png",
+    "static/media/edit.png": "/milahealth/static/media/edit.546bc9e6315cc3edbb8a.png",
+    "index.html": "/milahealth/index.html",
+    "main.cfa75090.css.map": "/milahealth/static/css/main.cfa75090.css.map",
+    "main.23da8317.js.map": "/milahealth/static/js/main.23da8317.js.map",
+    "453.00bbaf25.chunk.js.map": "/milahealth/static/js/453.00bbaf25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfa75090.css",
-    "static/js/main.84a0d336.js"
+    "static/js/main.23da8317.js"
   ]
 }
