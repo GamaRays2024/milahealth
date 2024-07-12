@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/milahealth/static/css/main.3a7c7450.css",
-    "main.js": "/milahealth/static/js/main.23da8317.js",
-    "static/js/453.00bbaf25.chunk.js": "/milahealth/static/js/453.00bbaf25.chunk.js",
+    "main.css": "/milahealth/static/css/main.ef38700f.css",
+    "main.js": "/milahealth/static/js/main.3d78ac2f.js",
+    "static/media/loading.gif": "/milahealth/static/media/loading.e548ac4fd4469f1185fc.gif",
     "static/media/ProfileIcon.png": "/milahealth/static/media/ProfileIcon.a72bc574243baeae67e3.png",
     "static/media/edit.png": "/milahealth/static/media/edit.546bc9e6315cc3edbb8a.png",
     "index.html": "/milahealth/index.html",
-    "main.3a7c7450.css.map": "/milahealth/static/css/main.3a7c7450.css.map",
-    "main.23da8317.js.map": "/milahealth/static/js/main.23da8317.js.map",
-    "453.00bbaf25.chunk.js.map": "/milahealth/static/js/453.00bbaf25.chunk.js.map"
+    "main.ef38700f.css.map": "/milahealth/static/css/main.ef38700f.css.map",
+    "main.3d78ac2f.js.map": "/milahealth/static/js/main.3d78ac2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a7c7450.css",
-    "static/js/main.23da8317.js"
+    "static/css/main.ef38700f.css",
+    "static/js/main.3d78ac2f.js"
   ]
 }
