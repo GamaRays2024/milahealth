@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/milahealth/static/css/main.ef38700f.css",
-    "main.js": "/milahealth/static/js/main.3d78ac2f.js",
+    "main.js": "/milahealth/static/js/main.4c6bbefd.js",
     "static/media/loading.gif": "/milahealth/static/media/loading.e548ac4fd4469f1185fc.gif",
     "static/media/ProfileIcon.png": "/milahealth/static/media/ProfileIcon.a72bc574243baeae67e3.png",
     "static/media/edit.png": "/milahealth/static/media/edit.546bc9e6315cc3edbb8a.png",
     "index.html": "/milahealth/index.html",
     "main.ef38700f.css.map": "/milahealth/static/css/main.ef38700f.css.map",
-    "main.3d78ac2f.js.map": "/milahealth/static/js/main.3d78ac2f.js.map"
+    "main.4c6bbefd.js.map": "/milahealth/static/js/main.4c6bbefd.js.map"
   },
   "entrypoints": [
     "static/css/main.ef38700f.css",
-    "static/js/main.3d78ac2f.js"
+    "static/js/main.4c6bbefd.js"
   ]
 }
